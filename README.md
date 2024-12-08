@@ -7,15 +7,25 @@
 Dự án được thiết kế và tổ chức theo mô hình **Clean Architecture** và **Microservices**, giúp hệ thống đảm bảo tính **modular, dễ bảo trì, mở rộng và tối ưu hóa hiệu suất**.
 
 ## 🛠️ **Công nghệ sử dụng**
-- __Ngôn ngữ__: [![My Skills](https://skillicons.dev/icons?i=js,cs)](https://skillicons.dev)
+- __Ngôn ngữ__:
 
-- __Framework__: [![My Skills](https://skillicons.dev/icons?i=react,dotnet)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,cs)](https://skillicons.dev)
 
-- __Cơ sở dữ liệu__: [![My Skills](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)
+- __Framework__:
 
-- __IDE__: [![My Skills](https://skillicons.dev/icons?i=rider,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,dotnet)](https://skillicons.dev)
 
-- __Các công cụ hỗ trợ nghiệp vụ__: [![My Skills](https://skillicons.dev/icons?i=rabbitmq,docker,yarn,postman)](https://skillicons.dev)
+- __Cơ sở dữ liệu__:
+
+  [![My Skills](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)
+
+- __IDE__:
+
+  [![My Skills](https://skillicons.dev/icons?i=rider,vscode)](https://skillicons.dev)
+
+- __Các công cụ hỗ trợ nghiệp vụ__:
+
+  [![My Skills](https://skillicons.dev/icons?i=rabbitmq,docker,yarn,postman)](https://skillicons.dev)
 
 - __API Gateway__ ![YARP]()
 
